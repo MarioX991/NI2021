@@ -1,0 +1,8 @@
+http://weitz.de/dct/
+
+spectral leakage
+https://community.sw.siemens.com/s/article/windows-and-spectral-leakage
+
+obrada slike etf
+http://automatika.etf.bg.ac.rs/sr/digitalna-obrada-slike-os4dos/220-serbian/sadr%C5%BEaj/predmeti/izborni-kursevi-za-os/obrada-signala/digitalna-obrada-slike-os4dos/436-os4dos-laboratorija
+http://automatika.etf.bg.ac.rs/sr/digitalna-obrada-slike-os4dos/220-serbian/sadr%C5%BEaj/predmeti/izborni-kursevi-za-os/obrada-signala/digitalna-obrada-slike-os4dos/435-os4dos-materijali
